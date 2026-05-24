@@ -45,7 +45,3 @@ Project-Parasite/
 4. Open the project and load the main scene from the `Scenes/` folder
 5. Press **Play** in the Unity Editor to run the game
 
-## 👥 Contributors
-
-- [Cameron Rodgers (Spectral-Thief10)](https://github.com/Spectral-Thief10)
-- Additional team members (see [Contributors](https://github.com/Spectral-Thief10/Project-Parasite/graphs/contributors))
