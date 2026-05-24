@@ -2,19 +2,19 @@
 
 A 3D Metroidvania game built in Unity as a collaborative group project. Players explore interconnected environments, defeat enemies, and progress by unlocking new abilities — following the core design principles of the Metroidvania genre.
 
-## 🎮 About
+## About
 
 Project Parasite is a 3D Metroidvania developed in Unity with C# as the primary scripting language. The game features exploration-driven progression, combat mechanics, and level design built around interconnected scenes and ability gating.
 
 This was a group project developed collaboratively, with version control managed through Git.
 
-## 🛠️ Built With
+## Built With
 
 - **Engine:** Unity
 - **Language:** C#
 - **Version Control:** Git
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Project-Parasite/
@@ -27,7 +27,7 @@ Project-Parasite/
 └── ProjectSettings/ # Unity project configuration
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
